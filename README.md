@@ -45,6 +45,8 @@ Switched to a new branch 'feature/setup'
 wisteria@HOME-PC:~/starter_repo_dev/Lab1/starter_repo$ git fetch origin && git rebase origin/main
 Current branch feature/setup is up to date.
 ```
+Добавление и коммит изменений
+```
 wisteria@HOME-PC:~/starter_repo_dev/Lab1/starter_repo$ git add .
 wisteria@HOME-PC:~/starter_repo_dev/Lab1/starter_repo$ git commit -m "ok"
 [feature/setup 03bb708] ok
